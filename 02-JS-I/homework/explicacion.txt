@@ -1,0 +1,31 @@
+Variables: 
+    Las variables son como una caja, en la cual se puede almacenar algo. A las cajas se les 
+    coloca una referencia por fuera para saber que llevan por dentro, así mismo se hace con una variable,
+    se le colocaun nombre que hace referencia a lo que lleva por dentro.
+
+Strings:
+    Son letras, números, símbolos, signos de puntuación que se escriben detro de comillas,
+    los cuales no tienen un significado especial dentro de un lenguaje de programación.
+
+Funciones:
+    Una función se puede comparar a un molde, por ejemplo: Imaginemos que tenemos que dibujar
+    100 circulos a mano, obviamente para que un circulo quede perfecto tendriamos que tomarnos un 
+    buen tiempo dibujando con mucho cuidado sobre el papel, pero si apartir del primer circulo que 
+    hicimos lo cortamos y hacemos un molde de él, entonces nos quedaría más fácil hacer el resto. Entonces
+    lo mismo pasa al momento de codificar, muchas veceas nos tocará usar el mismo código una y otra vez
+    de esa manera tomamos el trozo código que vamos a usar muchas veces y lo encerramos bajo un nombre, para así poder usarlo cada vez que lo necesitemos.
+    De esta forma nos ahorramos tener que escribir una y otra vez el mismo código. 
+
+    Los argumentos son como ajustes que le podemos hacer al molde, por ejemplo podemos hacer un molde
+    que pueda hacer circulos de cualquier tamaño, como es el caso del compás, que dependiendo cúan abierto o cerrado
+    esté, podremos hacer circulos de tamaños distintos. Entonces cuando una función recibe argumentos,
+    quiere decir que el código dentro de la función va a trabajar sobre los argumentos recibidos
+    y por ende va a devolver un resultado diferente dependiendo de los argumentos que reciba.
+
+Declaraciones if:
+    El 'if' sirve para tomar desiciones, así como en la vida real, cuando el la luz del semáforo
+    está en rojo nos detenemos, si está en verde avanzamos. Algo parecido podemos hacer a través del 
+    código que cuando se cumpla cierta condición suceda algo y cuando se cumpla esta otra suceda esto otro.
+
+Valores booleanos:
+    
